@@ -1,4 +1,4 @@
-name: Website
+name: Website Build
 on:
   push:
     branches:
