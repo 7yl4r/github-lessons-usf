@@ -4,6 +4,10 @@ This is a sandbox repository. Things can be created and destroyed and played wit
 
 Don't be shy; have fun. To get started: ask for edit access by [opening an issue](https://github.com/7yl4r/github-lessons-usf/issues)!
 
+This repo is associated with the USF Libraries workshop "GitHub 101".
+Slides for that presentation can be found [here](https://dub.sh/github101usf).
+
+
 # Branches
 ## gh-pages
 The `gh-pages` branch contains files that were copied from an instructional materials template. 
